@@ -1,0 +1,44 @@
+#event-container, #input-container{
+    width:35%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#event-container {
+    margin-top: 40px;
+}
+
+#add-event{
+    margin: 30 auto;
+}
+
+.event-button{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#button-container{
+    width:30%;
+    text-align: center;
+    margin-top: 15px;
+    margin: 0 auto;
+    display: inline;
+    float:right;
+    margin-right: 20%;
+}
+
+#data{
+    height:200px;
+    margin: 0 auto;
+}
+
+#table-container{
+    width:40%;
+    overflow-y: scroll;
+    height:300px;
+    margin-top:10px;
+    display:inline;
+    float:left;
+    margin: 0 auto;
+    margin-left: 10%;
+}
